@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord more to Mr. Thomas Edwards minister, by William VValwyn marchant. Concerning the nationall covenant.</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97113</idno>
+            <idno type="STC">Wing W696</idno>
+            <idno type="STC">Thomason E328_20</idno>
+            <idno type="STC">ESTC R200680</idno>
+            <idno type="EEBO-CITATION">99861360</idno>
+            <idno type="PROQUEST">99861360</idno>
+            <idno type="VID">113493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113493)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E328[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord more to Mr. Thomas Edwards minister, by William VValwyn marchant. Concerning the nationall covenant.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order, by Thomas Paine.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A reply to: Edwards, Thomas.  Gangræna (Wing E228).</note>
+                  <note>Annotation on Thomason copy: "March 19"; the second 6 in imprint date crossed out and date altered to 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edwards, Thomas, 1599-1647. --  Gangræna --  Early works to 1800.</term>
+               <term>Puritans --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:113493:1"/>
+            <pb n="1" facs="tcp:113493:1" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> VVORD MORE TO Mr. <hi>THOMAS EDWARDS</hi> Miniſter, <hi>By</hi> William VValwyn <hi>Marchant.</hi>
+            </head>
+            <head type="sub">Concerning the Nationall Covenant.</head>
+            <epigraph>
+               <q>Judge not according to appearance, but judge righ<g ref="char:EOLhyphen"/>teous judgement.</q>
+            </epigraph>
+            <div type="colophon">
+               <p>LONDON, <hi>Printed according to order, by</hi> Thomas Paine. 164<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </p>
+            </div>
+            <div type="body_of_tract">
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">V</seg>Ntill I perceive the contrary, I cannot but hope that I have prevailed ſomething with you tow<g ref="char:EOLhyphen"/>ards a change of your mind, and that you have begun to repent you of the evill you have done by publiſhing your book entituled the <hi>Gangreen:</hi> and doe wiſh my whiſper had come ſo timely to your eare, as to have prevented the ſecond edition, but repentance is ne<g ref="char:EOLhyphen"/>ver
+<pb n="2" facs="tcp:113493:2"/> too late, and I earneſtly deſire it may be hearty in you, for furtherance whereof, having in my laſt forgotten to declare my judgement concerning the Nationall Cove<g ref="char:EOLhyphen"/>nant, wherein either you are entangled, or whereby you entangle others, forcing ſuch an interpretation thereupon, as to bind all that have taken the ſame, to endeavour the eſtabliſhment of a compulſive Presbyterian Government: directly contrary to the whole ſcope of the new Teſta<g ref="char:EOLhyphen"/>ment.</p>
+               <p>To remove this error, if you be conſciencious therein: or to prevent the evil intended, and to undeceive thoſe that miſunderſtand the Covenant, I ſhall at this time manifeſt unto you in what ſence I tooke the ſame: conceiving my ſelf obliged ſo to do, chiefly in duty to the publick, but withall, in due reſpect to my own good name, having been queſtioned by ſome, how it could ſtand with my Cove<g ref="char:EOLhyphen"/>nant, that I ſhould be oppoſite in my judgement and en<g ref="char:EOLhyphen"/>deavours to the government you intended, or be ſo ſerious an Advocate for liberty of Conſcience? and I diſcerned a neceſſity of doing hereof at this inſtant of time, by oc<g ref="char:EOLhyphen"/>caſion of a ſermon I lately heard at <hi>Pauls:</hi> wherein all were ſuppoſed to be breakers of the Covenant, that did not in<g ref="char:EOLhyphen"/>ſiſt and be importunate for ſuch a government, &amp; ſo much power as the aſſembly of divines ſhould think fit, or to that effect; urging with ſuch vehemency of expreſſion, the pur<g ref="char:EOLhyphen"/>ſuance of the Covenant in that ſence, with ſuch threats of judgements, and ſtrong provocations, that I was amazed thereat, and had more feared the iſſue, but that I knew thoſe honourable perſons to whom he ſpake, were endued with wiſdom to diſcerne whoſe worke he did: though I confeſſe it was done ſo artificially, as to have deceived the very choiſeſt of men.</p>
+               <pb n="3" facs="tcp:113493:2"/>
+               <p>The two firſt articles of the Covenant, are only materiall to the point in queſtion: and therefore I ſhall declare in what ſence I took them, not medling with any other part thereof.</p>
+               <p>The firſt Article is thus, <hi>That we ſhall ſincerely, really, and conſtantly through the grace of God, endeavour in our ſeverall places and callings, the preſervation of the reformed Religion in the Church of</hi> Scotland, <hi>in doctrine, worſhip, diſcipline, and government, againſt our common enemies:</hi> by this I did binde my ſelf to indeavour in my place and calling, the preſerva<g ref="char:EOLhyphen"/>tion of the Reformed Religion in the Church of <hi>Scotland,</hi> in doctrine, worſhip, diſcipline, and government, <hi>againſt our common enemies,</hi> that is, that our common enemies ſhall not in any ſort diſturbe our brethren the Covenanters of <hi>Scotland,</hi> in the enjoyment of their Religion, and that form of Church Government which they conceived moſt agree<g ref="char:EOLhyphen"/>able to the Word of God: my bond being of force onely <hi>againſt our common enemies,</hi> and in no meaſure as juſtifying or judging of the form of goverment, be it Presbyterian, or any other. And I verily beleeve, thouſands that chearfully took the Covenant in reference to mutuall aid and aſſiſtance of them <hi>againſt our common enemies,</hi> did not know or under<g ref="char:EOLhyphen"/>ſtand what their Goverment was, and ſhould they alter their government to ſome other forme, J hold my ſelf bound in duty to defend them therin <hi>againſt our common enemy,</hi> and do judg the honourable Parliament of <hi>Scotland</hi> as free to alter, as for ours to eſtabliſh what God ſhall direct them, and the people there as free to move for the removall of any thing they find prejudiciall in their goverment, as we are here.</p>
+               <p>By the next vvords in the Covenant, I binde my ſelfe (in like manner) to indevour the reformation of Religion in the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> in doctrine, worſhip, di<g ref="char:EOLhyphen"/>ſcipline and Government, <hi>according to the word of God,</hi> and the example of the beſt reformed Churches: here the Word
+<pb n="4" facs="tcp:113493:3"/> of God is my particular and expreſſe rule, for the beſt Re<g ref="char:EOLhyphen"/>formed Churches may need reformation, and can at beſt on<g ref="char:EOLhyphen"/>ly miniſter an occaſion of conſideration of what is good in them, and agreeable to that word, but that word is ſtill my unerring rule, and not reformed Churches. Withall, ſo farre as reformed Churches. are in uſe in this caſe, I could not but eſteem that Church the beſt reformed, vvhere no coer<g ref="char:EOLhyphen"/>cive power is admitted, where there is no compulſion or moleſtation for Conſcience ſake, or matters of Religion, the word of God being clear and evident in that point. And tru<g ref="char:EOLhyphen"/>ly ſo far as matters of Conſcience and Religion can be in<g ref="char:EOLhyphen"/>truſted (for I conceive no truly conſciencious perſon in the world can abſolutely intruſt the regulation of his Conſci<g ref="char:EOLhyphen"/>ence in the worſhip of God to any authority) but ſo far as it can, in this Nation of ours, I am certain it belongeth onely to the Parliament to judge what is agreeable to the word of God and not unto the Aſſembly, who were conveened by the Parliament to hear their advice, but reſerving all power of determination to themſelves, as no wiſe delegable to any others, and God hath bleſſed all their undertakings in a wonderfull manner, by the hands of Conſcienſcious peo<g ref="char:EOLhyphen"/>ple, becauſe of their juſt and tender regard unto their free<g ref="char:EOLhyphen"/>dom in Religion, notwithſtanding all importunity to the contrary.</p>
+               <p>And where in the next place I bound my ſelf <hi>to endeavour to bring the Churches of God in the three Kingdoms to the near<g ref="char:EOLhyphen"/>eſt coniunction and uniformity in Religion, confeſsion of Faith, forme of Church goverment, Directory for Worſhip and Cate<g ref="char:EOLhyphen"/>chiſme.</hi> I conceive my bond is of force onely as I underſtand theſe or any of theſe to be agreeable to the word of God (which I muſt underſtand with my own underſtanding, and not by any others) and then alſo my endeavour for confor<g ref="char:EOLhyphen"/>mity, muſt be only by lawfull and juſt means, not by com<g ref="char:EOLhyphen"/>pulſion
+<pb n="5" facs="tcp:113493:3"/> or enforcement, but by love, light, and argument: which was the way of our bleſſed Saviour and his Apoſtles, and in ſo doing, wee and our poſterity after us may live in faith and love, &amp; the Lord may delight to dwell in the mid<g ref="char:EOLhyphen"/>deſt of us: for God is love, and he that dwelleth in love, dwelleth in God, and God in him: Nor do I conceive the Conſcience of the Parliament to be any otherwiſe obliged, then a particular mans Conſcience, their votes and reſults being iſſues of particulars, and as they only are intruſted, ſo I truſt and am confident they will underſtand with their owne underſtandings, and preſerve us in our liberties, not only as we are men, but (Chriſtians namely, in a liberty to be fully perſwaded in our own minds, in all things appertaining to Gods worſhip,) and protect us in the peaceable practice of our conſciences, againſt all kinds of moleſtation.</p>
+               <p>And how ſtrange ſoever this may ſeem to you, unto me it ſeemeth moſt equal: becauſe otherwiſe, a conſciencious man (that of all men is the moſt precious in the ſight of God, and ſhould be ſo in the judgement of law and authority) of all men would be the leaſt free, and moſt liable to diſturbance, for allow unto ſuch a one all the comforts that this world can afford, and but abridge him of his liberty of worſhip<g ref="char:EOLhyphen"/>ping God according to his Conſcience, his life in an inſtant becomes burthen ſome to him, his other contentments are of no eſteeme, and you bring his gray hairs with extreame ſorrow to the grave: for of all liberty liberty of Conſcience is the greateſt: and where that is not: a true Chriſtian fin<g ref="char:EOLhyphen"/>deth none.</p>
+               <p>In the ſecond Article <hi>I</hi> bound my ſelfe to endeavour the extirpation of hereſie, ſchiſme and whatſoever ſhal be found contrary to ſound doctrine &amp;c. Whereby it is ſuppoſed and urged that <hi>I</hi> am expreſſely bound againſt liberty of Conſci<g ref="char:EOLhyphen"/>ence; but as <hi>I</hi> ſaid before: judge not according to appear<g ref="char:EOLhyphen"/>ance,
+<pb n="6" facs="tcp:113493:4"/> but judge righteous judgement: by hereſie you un<g ref="char:EOLhyphen"/>derſtand all doctrines that are not agreeable unto yours: though you are not infallible: by ſchiſme you underſtand the declining or forſaking the Presbyterian Government or congregations: in which ſence you were a ſchiſme from the Prelaticall Church: (but I entreat you ſpeedily to ex<g ref="char:EOLhyphen"/>plain by grounds of ſcripture what hereſie is, and what ſchiſme is: to which you will ſtand.) Moſt commonly by hereſiy in the covenant, you underſtand heretick, and by ſchiſme ſchiſmatick, and where in the covenant the word extirpation is applyed to hereſie and ſchiſm, you apply it to the rooting up of hereticks: and ſhiſmaticks: but in all this I conceive you are extreamly miſtaken.</p>
+               <p>However, when <hi>J</hi> tooke the Covenant <hi>I</hi> conſidered what hereſie was, and <hi>I</hi> found that hereſie is not: but where a man forſakes an infallible and knowne truth, and profeſ<g ref="char:EOLhyphen"/>ſeth the contrarie, for vile and worldy reſpects, as may ap<g ref="char:EOLhyphen"/>pear by the words of the Apoſtle, to <hi>Titus, chap. 3. v. 10. 11<g ref="char:punc">▪</g> A man that is an heretick, after the firſt or ſecond admonition re<g ref="char:EOLhyphen"/>ject: knowing that he that is ſuch, is ſubverted, and ſinneth, being condemned of himſelfe,</hi> ſo as if <hi>I</hi> ſhould know that you in the Biſhops time did underſtand and beleeve upon ſure grounds of ſcripture, that libertie of Conſcience was due to every Chriſtian, and in reſpect unto the truth thereof did plead and ſuffer for the ſame: and yet after that by the juſtice of this Parliament, you were delivered from that oppreſſion and moleſtation for conſcience ſake: and ſtated in freedom: if after this, to gain honour profit or preferment, you ſhall be ſo ſubverted, as to practice the ſame oppreſſion towards others, (that differ with you in judgement or way of wor<g ref="char:EOLhyphen"/>ſhip) as was injuriouſly inflicted upon you: and ſtrongly and clamourouſly, importune for power to ſuppreſſe conſci<g ref="char:EOLhyphen"/>encious people, this ſcripture as <hi>I</hi> conceive, judges you an
+<pb n="7" facs="tcp:113493:4"/> heretick: one that ſinneth, and is ſubverted and condemned of himſelfe: if your conſcience condemne you, God you know is greater then your Conſcience, and will not acquit you. I dare not peremptorily take upon me to judge you in this ſad condition, but that error in judgement, or blindnes in underſtanding, though very erronious and groſſe, is he<g ref="char:EOLhyphen"/>reſie, I do not beleeve, but do rather coceive it an invention of ſome corrupt Clergy-men (to cauſe hatred among the people about opinions, thereby to divide them in affection, it being their maxim, (as well as other polititians) divide and maſter them,) and to have ſome colour of enfor<g ref="char:EOLhyphen"/>cing their interpretation of ſcripture as a rule upon all men, and to puniſh all oppoſers. And truly you ſhal do a good of<g ref="char:EOLhyphen"/>fice if you ſhall open the eies o (your friends in this particu<g ref="char:EOLhyphen"/>lar, and not ſuffer them any longer to judge according to the rule of corrupt prelats and perſecuting biſhops, nor continue ſo violent againſt ſuch as differ from them in judg<g ref="char:EOLhyphen"/>ment, but to judge others to bee conſciencious as well as themſelves, and beare with others, as they would be born withall themſelves: being ever mindfull that none are now infallible.</p>
+               <p>And as concerning ſchiſm, I judge it not to be, but where an unpeaceable, and violent perverſneſſe appeareth, a diſpo<g ref="char:EOLhyphen"/>ſition impoſible to hold fellowſhip withall, and hee onely a ſchiſmatick that is ſuch, and not an honeſt quiet ſpirited perſon, that out of conſcience and difference in iudgement, cannot walk in Church fellowſhip with me, this being alſo another invention, (as I beleeve) of corrupt prelats and per<g ref="char:EOLhyphen"/>ſecuting biſhops, to find occaſion againſt Conſciencious pe<g ref="char:EOLhyphen"/>ople, and by vexing them, to make them draw in their yoak, wherein alſo you ſhall doe well to open the eies of your friends, and help them to diſtinguiſh rightly of hereſie and ſchiſme, that ſo they may know what they have covenan<g ref="char:EOLhyphen"/>ted to extirpate, and what not.</p>
+               <pb n="8" facs="tcp:113493:5"/>
+               <p>And though <hi>I</hi> ſhould find ſuch hereſies and ſchiſmes, and am bound by my Covenant to extirpate them<g ref="char:punc">▪</g> I muſt doe it in a way that is iuſtifiable, I muſt not (as you ſeem to iudge) endeavour to root out the hereticks and ſchiſmaticks, by baniſhment impriſonment or death, but by gentle and chri<g ref="char:EOLhyphen"/>ſtian means: that is, by perſwaſion, admonition, and infor<g ref="char:EOLhyphen"/>mation endeavour to reclaime them, and when that availeth not, I am only to reiect them: or to hold no familiar ſociety with them. According to this ſence I took theſe two articles of our Nationall Coveeant, and ſo did divers others that I know, nor do I diſcerne that <hi>I</hi> ſtrained the naturall or genu<g ref="char:EOLhyphen"/>ine ſence thereof in a tittle. If I am miſtaken, I ſhall thank you or any other by grounds of ſcripiure to ſhew me my er<g ref="char:EOLhyphen"/>ror, but if this ſence be good, you had need to warne your friends to take heed what they heare, for ſtrange inferences are made from thoſe two articles in the covenant: but I hope what I have ſaid will ſatisfie all conſiderate conſciences, and ſuffice to acquit me from breach of covenant, though I earn<g ref="char:EOLhyphen"/>eſtly endeavour for liberty of conſcience, wherein I am ful<g ref="char:EOLhyphen"/>ly perſwaded, the glory and truth of God, and good of all mankind is really involved; otherwiſe I would never have moved my tongue or pen in this argument.</p>
+               <p>And if I ſhall be ſo happy by what <hi>I</hi> have done, as to bee an inſtrument to reduce you into a charitable demeanor to<g ref="char:EOLhyphen"/>wards tender Conſciences, <hi>I</hi> ſhall rejoyce more then to ſee a miracle: for <hi>J</hi> ſtill remaine moſt earneſtly deſirous of your reformation, and eternall happineſſe.</p>
+               <closer>
+                  <signed>William Walwyn.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
